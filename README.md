@@ -10,6 +10,7 @@
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+- [Disclaimer](#Disclaimer)
 
 ## Prerequisites
 
@@ -67,3 +68,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 This project is licensed under the GNU General Public License (GPL-3.0). See the [LICENSE](https://github.com/AliTahir-101/slot-notifier/blob/main/LICENSE) file for details.
+
+## Disclaimer
+
+This project is provided for educational and demonstration purposes only. It should be used responsibly and in compliance with the terms of service and policies of any websites or services it interacts with. Unauthorized scraping or any other activity that violates the terms of service of third-party websites is not condoned and should be avoided.
+
+Before using this project, please review and respect the terms of service, privacy policies, and usage guidelines of any websites or services you intend to interact with. The author of this project is not responsible for any misuse or violations of such terms.
+
+Use this project responsibly and ensure that your actions align with legal and ethical standards.
