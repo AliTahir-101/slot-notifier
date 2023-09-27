@@ -9,7 +9,9 @@ Exciting news! We've taken the Embassy Appointment Slot Notifier to the next lev
 - Improved email notifications to keep you informed.
 - Seamless integration with your personal email for notifications.
 
-Don't miss out on the enhanced capabilities and ease of use. We recommend transitioning to the latest Cypress-based version for an even smoother experience. Explore the [new project](hhttps://github.com/AliTahir-101/slot-notifier-cypress) and stay ahead in your appointment scheduling journey! 🤖✨
+Don't miss out on the enhanced capabilities and ease of use. We recommend transitioning to the latest Cypress-based version for an even smoother experience. Explore the [new project](https://github.com/AliTahir-101/slot-notifier-cypress) and stay ahead in your appointment scheduling journey! 🤖✨
+
+**New Version**: https://github.com/AliTahir-101/slot-notifier-cypress
 
 # Embassy Appointment Slot Notifier (old version)
 
